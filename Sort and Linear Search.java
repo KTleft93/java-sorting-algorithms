@@ -1,4 +1,4 @@
-package ktn;
+
 import java. util.*;
 public class Nwazirik_Chapter8Lab1 {
 //Kean Nwaziri
